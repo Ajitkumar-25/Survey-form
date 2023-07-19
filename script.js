@@ -87,8 +87,8 @@ function showCurrentQuestion() {
     }
   } else if (currentQuestion.type === "text") {
     const textbox = document.createElement("textarea");
-    textbox.type="text"
     textbox.name = "answer";
+    textbox.placeholder="Please Enter your views Here..."
     textbox.rows = 5;
     answerOptionsElement.appendChild(textbox);
   }

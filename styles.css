@@ -64,13 +64,29 @@ button {
 }
 
 #answerOptions input[type="radio"] {
-  margin-left: 20px;
-  margin-right: 5px;
+  appearance: none;
+  margin-left: 25px;
+  margin-right: 10px;
   width: 20px;
   height: 20px;
+  outline: 2px solid rgba(11, 6, 6, 0.918);
+  outline-offset: 3px;
+  border-radius: 50%;
 }
 
+#answerOptions input[type="radio"]:checked{
+  background-color: black;
+}
 
+#answerOptions textarea
+{
+  width: 50%;
+  height: 100px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid rgba(11, 6, 6, 0.918);
+}
 
 #answerOptions label {
   font-size: 30px;
