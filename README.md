@@ -2,40 +2,38 @@
 A short survey form of a Shop
 
 #  Some Screenshots of the survey form 
-<hr>
-
-![Screenshot (139)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/ff880612-0884-43b8-8b4d-d7b60fa43f2e)
+![Screenshot (139)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/2791eb5f-be98-46dc-946e-32080b00a177)
 
 <hr>
 
-![Screenshot (140)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/a9f90e53-d48a-41ef-a592-04ca085a182a)
+![Screenshot (140)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/5ce6509a-f197-442b-8c08-34d291d43e75)
 
 <hr>
 
-![Screenshot (141)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/5d728505-ec70-40cc-9433-f11a34c48c8c)
+![Screenshot (141)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/13518276-24c1-41c6-b262-07d810c6fac8)
 
 <hr>
 
-![Screenshot (142)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/a9ee3350-3191-41b2-ae21-70fec4873018)
+![Screenshot (142)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/890762fd-c8ff-4b79-a607-19d85aae8fea)
 
 <hr>
 
-![Screenshot (143)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/0e020ddd-1436-4ae4-9f7a-72fa72e09426)
+![Screenshot (143)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/9c64f5d3-86b9-4ab6-ac7a-9a281d69cb5d)
 
 <hr>
 
-![Screenshot (144)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/535b23d7-c72c-4b46-be8a-738afeec7375)
+![Screenshot (144)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/27500d22-faaa-4a0c-9d2f-14f9a2f92780)
 
 <hr>
 
-![Screenshot (145)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/11cf424e-22d4-4bad-b99b-1587ccdb3d77)
+![Screenshot (145)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/c8374c91-056d-4b77-9f0d-5d1741525b4d)
 
 <hr>
 
-![Screenshot (146)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/5fa2e75b-2a2e-409e-bb6d-3434fa3c6259)
+![Screenshot (146)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/701e5bfd-cb5b-4533-8a71-7928fd09a039)
 
 <hr>
 
-![Screenshot (147)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/031953ab-8fe8-4107-bb54-7a1ff38b0689)
+![Screenshot (147)](https://github.com/Ajitkumar-25/Survey-form/assets/98700726/0d27eee0-0a91-47ef-8285-07613f602e51)
 
 <hr>
